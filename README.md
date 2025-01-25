@@ -9,6 +9,12 @@
 
 ---
 
+## 📈 GitHub Activity
+
+During my career in the Navy, my GitHub activity was limited as I primarily worked on internal and sensitive projects that were not publicly accessible. However, I am now focusing on creating and publishing small projects across different domains, utilizing **Java**, **Angular**, **Spring Boot**, **Flutter**, and other modern technologies. My goal is to build a public portfolio that showcases my expertise and skills while exploring new tools and development practices.
+
+---
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
