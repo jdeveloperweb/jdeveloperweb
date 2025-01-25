@@ -1,42 +1,43 @@
 # Hey, I'm Jaime 👋
 
-🚀 **Software Engineer | Java | Spring | Angular | Flutter | Fullstack Developer**
-
----
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## 👨🏻‍💻 About Me
 
-- 🎓   Software Engineer with a passion for building scalable and efficient systems.
-- 💼   Currently working as a **Software Engineer (PJ)** at Prognum Informática, implementing a Java-based system.
-- 📱   Creator of [Guia do Milico](https://play.google.com/store/apps/details?id=com.infyus.guiadomilico), available on Play Store and App Store.
-- 🌐   Maintainer of [CFN Portal](https://portal.cfn.mb), a production application built with Angular.
-- 🛠️   Always exploring new technologies to enhance my skills and deliver impactful solutions.
-- 🔍   Interested in backend architecture, microservices, and creating exceptional user experiences.
+- 🎓 &nbsp; Software Engineer specializing in backend and fullstack development.
+- 🙂 &nbsp; Exploring new technologies and developing scalable solutions for modern challenges.
+- 🤖 &nbsp; I have a keen interest in **Java**, **Spring Boot**, **Angular**, and **Microservices Architecture**.
+
+I'm always looking to improve my skills and contribute to impactful projects. My focus is on building reliable systems, clean code, and efficient user experiences.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, TypeScript, Dart, JavaScript, SQL  
-- **Backend:** Spring Boot, REST APIs, Microservices  
-- **Frontend:** Angular, Flutter  
-- **Database:** PostgreSQL, MySQL, Firebase  
-- **DevOps:** Docker, Git, CI/CD pipelines  
-- **Other Tools:** IntelliJ IDEA, Visual Studio Code, Postman, Swagger  
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Frontend-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=blueviolet)
 
 ---
 
-## 📡 Follow Me:
+<i>Follow me:</i><br>
 
-- [LinkedIn](https://www.linkedin.com/in/jaimevicentejr/)
-- [GitHub](https://github.com/jdeveloperweb)
-
----
-
-## 📊 GitHub Stats:
-
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdeveloperweb&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
 
 ---
 
-Let me know if you'd like further customization, or if you want help linking your specific GitHub username and LinkedIn profile! 😊
+**A brief github status:** 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&hide=javascript,html,css&theme=onedark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=onedark" />
+</a>
