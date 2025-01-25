@@ -1,4 +1,4 @@
-# Hey, I'm Jaime Vicente Jr. 👋
+# Hey, I'm Jaime 👋
 
 ## 👨🏻‍💻 About Me
 
