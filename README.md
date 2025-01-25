@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Jaime 👋
 
-<!--
-**jdeveloperweb/jdeveloperweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fullstack Developer | Java | Spring | Angular | Flutter**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 About Me
+
+- 🎓   Software Engineer passionate about building scalable systems and impactful applications.
+- 💼   Currently working as Software Engineer (PJ) at Prognum Informática, implementing a new Java-based system.
+- 📱   Creator of [Guia do Milico](https://play.google.com/store/apps/details?id=com.infyus.guiadomilico) and maintaining the [CFN Portal](https://portal.cfn.mb).
+- 🛠️   Exploring new technologies to enhance my skills as a fullstack developer.
+- 🌐   Special interests in backend architecture, frontend frameworks, and delivering optimized user experiences.
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Java, Dart, TypeScript, JavaScript, SQL  
+- **Frameworks:** Spring Boot, Angular, Flutter  
+- **Tools & Platforms:** Docker, Git, PostgreSQL, Firebase, REST APIs  
+
+---
+
+## 📡 Follow Me:
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui/)
+- [GitHub](https://github.com/seu-usuario-aqui)
+
+---
+
+## 📊 GitHub Stats:
+
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical)
