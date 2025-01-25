@@ -2,13 +2,10 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 &nbsp; **Senior Software Engineer** currently working at **Prognum Informática**, focusing on designing and implementing scalable, high-performance systems.
-💡 &nbsp; I specialize in **backend development** using **Java** and **Spring**, as well as creating robust **RESTful APIs** and implementing **microservices architectures**.
-🤖 &nbsp; I have a strong interest in **Artificial Intelligence** and **Machine Learning**, currently pursuing an **M.Sc. in Computational Intelligence** at **UFRJ**.
-🚀 &nbsp; Experienced in **fullstack development**, leveraging tools like **Angular**, **Flutter**, and modern **DevOps practices** to deliver complete solutions.
-💼 &nbsp; Skilled in improving software quality through **Clean Code**, **SOLID principles**, **TDD**, and automated testing with tools like **JUnit** and **Mockito**.
-🌐 &nbsp; I thrive in dynamic environments, working with **agile methodologies** like Scrum and Kanban to deliver solutions aligned with business goals.
-📊 &nbsp; I enjoy solving complex challenges and building software that makes an impact.
+- 🎓 &nbsp; **Senior Software Engineer** with expertise in **Java**, **Spring Boot**, and **RESTful APIs**.  
+- 💼 &nbsp; Currently working at **Prognum Informática**, focusing on building scalable systems and microservices.  
+- 🤖 &nbsp; Passionate about **Artificial Intelligence** and pursuing an **M.Sc. in Computational Intelligence** at **UFRJ**.  
+- 🚀 &nbsp; Experienced in **fullstack development** with **Angular**, **Flutter**, and modern **DevOps practices**.  
 
 ---
 
