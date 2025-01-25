@@ -41,7 +41,7 @@
 ## 📡 Follow Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimevicentejr/)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-instagram/)
 ---
 
 **A brief GitHub status:** 
