@@ -28,14 +28,14 @@
 
 ## 📡 Follow Me:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui/)
-- [GitHub](https://github.com/seu-usuario-aqui)
+- [LinkedIn](https://www.linkedin.com/in/jaimevicentejr/)
+- [GitHub](https://github.com/jdeveloperweb)
 
 ---
 
 ## 📊 GitHub Stats:
 
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical)
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdeveloperweb&show_icons=true&theme=radical)
 
 ---
 
