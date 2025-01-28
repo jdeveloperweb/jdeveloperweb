@@ -19,6 +19,7 @@ During my career in the Navy, my GitHub activity was limited as I primarily work
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-Spring_Data-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-Spring_Security-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Frontend-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blueviolet)
