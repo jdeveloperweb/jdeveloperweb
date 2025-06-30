@@ -22,6 +22,8 @@ During my career in the Navy, my GitHub activity was limited as I primarily work
 ![](https://img.shields.io/badge/Framework-Spring_Data-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-Spring_Security-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+
 ![](https://img.shields.io/badge/Frontend-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
