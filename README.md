@@ -40,7 +40,7 @@ During my career in the Navy, my GitHub activity was limited as I primarily work
 
 ## 🎓 Academic Background
 
-- 🧑‍🎓 **M.Sc. in Computational Intelligence (expected 2025)** – UFRJ  
+- 🧑‍🎓 **M.Sc. in Computational Intelligence** – UFRJ  
   Researching applications of machine learning and AI in solving real-world problems.
 - 👨‍🎓 **B.Sc. in Computer Engineering (2018)** – Universidade Veiga de Almeida  
 
