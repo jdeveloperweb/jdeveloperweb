@@ -5,7 +5,7 @@
 - 🎓 &nbsp; **Senior Software Engineer** with expertise in **Java**, **Spring Boot**, and **RESTful APIs**.  
 - 💼 &nbsp; Currently working at **Prognum Informática**, focusing on building scalable systems and microservices.  
 - 🤖 &nbsp; Passionate about **Artificial Intelligence** and pursuing an **M.Sc. in Computational Intelligence** at **UFRJ**.  
-- 🚀 &nbsp; Experienced in **fullstack development** with **Angular**, **Flutter**, and modern **DevOps practices**.  
+- 🚀 &nbsp; Experienced in **fullstack development** with **Java**, **Spring Boot**, **React**, **Angular**, **Flutter**, and modern **DevOps practices**.  
 
 ---
 
