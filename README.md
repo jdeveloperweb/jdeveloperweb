@@ -69,7 +69,7 @@ Researcher at **LabSonar/UFRJ**, with academic work focused on applied AI and mo
 
 **A brief github status:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdevelopeweb)]
+[![Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=jdevelopeweb)]
 
 ---
 
