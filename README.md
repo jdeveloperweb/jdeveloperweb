@@ -62,17 +62,17 @@ Researcher at **LabSonar/UFRJ**, with academic work focused on applied AI and mo
 
 <i>Follow me:</i><br>
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimevicentejr/)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-instagram/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimevicentejr)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaimevicentejr)
 
 <!-- ## 📂 Featured Projects -->
 
 **A brief github status:**
 
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdeveloperweb&count_private=true)
+<!-- ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdeveloperweb&count_private=true) -->
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdeveloperweb&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdeveloperweb&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ![Jaime's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jdeveloperweb&theme=react-dark)
