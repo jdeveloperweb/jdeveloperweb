@@ -3,13 +3,13 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![Profile Views](https://komarev.com/ghpvc/?username=jdeveloperweb&color=blueviolet)
 
-> **Senior Software Engineer** at **SCCI**, specializing in Java/Spring Boot architecture, legacy-to-cloud modernization, and distributed systems for major Brazilian banks. **M.Sc. in Computational Intelligence** from **UFRJ** (2025), with research focused on applied AI and model compression. Researcher at **LabSonar/UFRJ**. With over 18 years of experience — including a full career in the **Brazilian Navy** building mission-critical systems — I bring strong technical leadership, fast learning ability, and a relentless drive to keep evolving. Always learning, always shipping.
+> **Senior Software Engineer** at **Prognum**, specializing in Java/Spring Boot architecture, legacy-to-cloud modernization, and distributed systems for major Brazilian banks. **M.Sc. in Computational Intelligence** from **UFRJ** (2025), with research focused on applied AI and model compression. Researcher at **LabSonar/UFRJ**. With over 18 years of experience — including a full career in the **Brazilian Navy** building mission-critical systems — I bring strong technical leadership, fast learning ability, and a relentless drive to keep evolving. Always learning, always shipping.
 
 ## 👨🏻‍💻 About Me
 
 - 🎓 &nbsp; Computer Engineer (UVA, 2018) · M.Sc. in Computational Intelligence (UFRJ, 2025).
 - 🙂 &nbsp; Exploring new technologies and developing software solutions across multiple stacks.
-- 💼 &nbsp; Currently at **SCCI (Prognum Informática)**, architecting solutions for **major Brazilian banks** in the real estate credit sector.
+- 💼 &nbsp; Currently at **Prognum Informática**, architecting solutions for **major Brazilian banks** in the real estate credit sector.
 - 🤖 &nbsp; Focused on **Applied AI**, **Model Compression**, and **AI-Assisted Development**.
 - 🚀 &nbsp; Driving **Pascal-to-Java modernization** at scale — migrating legacy monoliths to **Spring Boot microservices** with hexagonal architecture.
 - ⚓ &nbsp; **18 years in the Brazilian Navy** (2010–2025), building and maintaining mission-critical systems under high-pressure environments.
