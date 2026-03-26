@@ -69,10 +69,7 @@ Researcher at **LabSonar/UFRJ**, with academic work focused on applied AI and mo
 
 **A brief github status:**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeveloperweb&hide=javascript,html,css&theme=onedark" />
-  </a>
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jdeveloperweb&show_icons=true&theme=onedark" />
