@@ -17,7 +17,7 @@
 - 📚 &nbsp; **Fast learner and perpetual student** — from military operations to cloud architecture to AI internals, I thrive on mastering new domains.
 - 🧠 &nbsp; I also have a keen interest in: **Event-Driven Architecture**, **AWS Cloud**, **DevOps**, **MLOps** and **Systems Design**.
 
-Researcher at **LabSonar/UFRJ**, with academic work focused on applied AI and model compression techniques for artificial intelligence systems. You can find more about my research on [LinkedIn](https://www.linkedin.com/in/jaimevicentejr/).
+Researcher at **LPS & LabSonar/UFRJ**, with academic work focused on applied AI and model compression techniques for artificial intelligence systems. You can find more about my research on [LinkedIn](https://www.linkedin.com/in/jaimevicentejr/).
 
 ## 🎓 Academic Background
 
